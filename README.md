@@ -59,9 +59,34 @@ The dataset contains ride booking–level transactional data for July 2025.
 
 ## Data Analysis Using SQL
 
-### Retrieve All Successful Bookings
-```sql
-SELECT *
-FROM rides_data
-WHERE Booking_Status = 'Success';
+## Data Analysis Using SQL
 
+### Retrieve All Successful Bookings
+This analysis focuses on identifying all rides that were completed successfully. By isolating successful bookings, the business can accurately measure completed ride volume, revenue generation, and service efficiency without interference from cancelled or failed rides.
+
+### Average Ride Distance by Vehicle Type
+This analysis calculates the average distance traveled for each vehicle category. It helps understand customer travel behavior and reveals which vehicle types are generally preferred for longer or shorter trips. These insights support better vehicle allocation and pricing strategies.
+
+### Cancellation Analysis by Customers
+This analysis measures the total number of rides cancelled by customers. Understanding customer-driven cancellations helps identify pain points such as long wait times, pricing issues, or poor service experience, allowing the business to take corrective action.
+
+### Top 5 Customers by Number of Rides
+This analysis identifies the most frequent customers based on total ride bookings. Recognizing high-usage customers enables the business to design loyalty programs, targeted offers, and retention strategies for valuable users.
+
+### Maximum and Minimum Driver Ratings for Prime Sedan
+This analysis examines the highest and lowest driver ratings within the Prime Sedan category. It helps assess service quality, identify performance gaps, and maintain consistent customer experience across premium vehicle offerings.
+
+## Power BI Dashboard Analysis
+Power BI dashboards were created to visualize ride trends, booking performance, revenue distribution, and customer behavior using interactive visuals.
+
+## Key Insights
+- Ride volume was highest during weekends  
+- Certain vehicle types showed higher booking success rates  
+- Lower ratings were frequently associated with cancelled rides  
+- Digital payment methods dominated overall transactions  
+
+## Business Recommendations
+- Improve driver availability during peak demand periods  
+- Reduce ride cancellations through better driver-customer matching  
+- Promote high-performing vehicle categories  
+- Encourage drivers to maintain higher ratings  
