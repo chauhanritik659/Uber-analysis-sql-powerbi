@@ -112,7 +112,7 @@ Uber-Data-Analysis/
 ![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/05800f0fc3a3400a8c500f2bb1eb3b7be49b0cf9/Overview.png)
 
 ### Ride Volume Trend
-![Ride Volume](Screenshots/Ride%20Volume%20Peaked%20during%20weekends.png)
+![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/9f13ad1d43947e0184829eedc24bad6033f2e49f/Ride%20Volume%20Peaked%20during%20weekends.png)
 
 ### Revenue by Payment Method
 ![Payment Method](Screenshots/Payment%20Method%20Dominated%20Overall%20Transactions.png)
