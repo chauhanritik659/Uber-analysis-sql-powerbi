@@ -109,7 +109,7 @@ Uber-Data-Analysis/
 ## Power BI Dashboard Screenshots
 
 ### Overall Dashboard
-![Overall Dashboard](Screenshots/Overview.png)
+![Overall Dashboard]()
 
 ### Ride Volume Trend
 ![Ride Volume](Screenshots/Ride%20Volume%20Peaked%20during%20weekends.png)
@@ -121,4 +121,4 @@ Uber-Data-Analysis/
 ![Vehicle Performance](Screenshots/vehicle%20gernate%20higher%20success%20booking.png)
 
 ### Cancellation vs Ratings
-![Ratings vs Cancellation](Screenshots/Lower%20rating%20often%20cancelled%20by%20rating.png)
+![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/ad79bedfe7e3586e5230a6a2fdc50898d952e0b2/Lower%20rating%20often%20cancelled%20by%20rating.png)
