@@ -109,7 +109,7 @@ Uber-Data-Analysis/
 ## Power BI Dashboard Screenshots
 
 ### Overall Dashboard
-![Overall Dashboard]()
+![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/05800f0fc3a3400a8c500f2bb1eb3b7be49b0cf9/Overview.png)
 
 ### Ride Volume Trend
 ![Ride Volume](Screenshots/Ride%20Volume%20Peaked%20during%20weekends.png)
