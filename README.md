@@ -13,9 +13,11 @@
   - [Power BI Dashboard Analysis](#power-bi-dashboard-analysis)
   - [Key Insights](#key-insights)
   - [Business Recommendations](#business-recommendations)
-  - [How to Run This Project](#how-to-run-this-project)
   - [Project Folder Structure](#project-folder-structure)
   - [Power BI Dashboard Screenshot](#power-bi-dashboard-screenshot)
+      - ![Overview](Screenshots/overview.png)
+      - ![Revenue](Screenshots/revenue.png)
+      -![Cancellations](Screenshots/cancellations.png)
   - [Conclusion](#conclusion)
   - [Author](#author)
 
