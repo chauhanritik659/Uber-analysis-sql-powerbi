@@ -108,8 +108,6 @@ Uber-Data-Analysis/
 
 ## Power BI Dashboard Screenshots
 
-### Overall Dashboard
-![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/05800f0fc3a3400a8c500f2bb1eb3b7be49b0cf9/Overview.png)
 
 ### Ride Volume Trend
 ![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/9f13ad1d43947e0184829eedc24bad6033f2e49f/Ride%20Volume%20Peaked%20during%20weekends.png)
@@ -118,7 +116,7 @@ Uber-Data-Analysis/
 ![Payment Method](Screenshots/Payment%20Method%20Dominated%20Overall%20Transactions.png)
 
 ### Vehicle Type Performance
-![Vehicle Performance](Screenshots/vehicle%20gernate%20higher%20success%20booking.png)
+![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/abe7f05fe494dec29bbf1c0761db94cc73133950/vehicle%20gernate%20higher%20success%20booking.png)
 
 ### Cancellation vs Ratings
 ![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/ad79bedfe7e3586e5230a6a2fdc50898d952e0b2/Lower%20rating%20often%20cancelled%20by%20rating.png)
