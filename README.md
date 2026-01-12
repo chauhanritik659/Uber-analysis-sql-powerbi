@@ -15,9 +15,6 @@
   - [Business Recommendations](#business-recommendations)
   - [Project Folder Structure](#project-folder-structure)
   - [Power BI Dashboard Screenshot](#power-bi-dashboard-screenshot)
-      - ![Overview](Screenshots/overview.png)
-      - ![Revenue](Screenshots/revenue.png)
-      -![Cancellations](Screenshots/cancellations.png)
   - [Conclusion](#conclusion)
   - [Author](#author)
 
@@ -107,3 +104,21 @@ Uber-Data-Analysis/
 -├── Report/
 -│   └── Uber_Data_Analysis_Report.pdf
 -└── README.md
+
+
+## Power BI Dashboard Screenshots
+
+### Overall Dashboard
+![Overall Dashboard](Screenshots/Overview.png)
+
+### Ride Volume Trend
+![Ride Volume](Screenshots/Ride%20Volume%20Peaked%20during%20weekends.png)
+
+### Revenue by Payment Method
+![Payment Method](Screenshots/Payment%20Method%20Dominated%20Overall%20Transactions.png)
+
+### Vehicle Type Performance
+![Vehicle Performance](Screenshots/vehicle%20gernate%20higher%20success%20booking.png)
+
+### Cancellation vs Ratings
+![Ratings vs Cancellation](Screenshots/Lower%20rating%20often%20cancelled%20by%20rating.png)
