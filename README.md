@@ -89,4 +89,22 @@ Power BI dashboards were created to visualize ride trends, booking performance, 
 - Improve driver availability during peak demand periods  
 - Reduce ride cancellations through better driver-customer matching  
 - Promote high-performing vehicle categories  
-- Encourage drivers to maintain higher ratings  
+- Encourage drivers to maintain higher ratings
+
+## Project Folder Structure
+
+Uber-Data-Analysis/
+├── Data/
+│   └── uber_rides_data.csv
+├── SQL/
+│   └── uber_analysis_queries.sql
+├── PowerBI/
+│   └── Uber_Dashboard.pbix
+├── Screenshots/
+│   └── powerbi_dashboard.png
+├── Report/
+│   └── Uber_Data_Analysis_Report.pdf
+└── README.md
+
+
+
