@@ -120,3 +120,17 @@ Uber-Data-Analysis/
 
 ### Cancellation vs Ratings
 ![image alt](https://github.com/chauhanritik659/Uber-analysis-sql-powerbi/blob/ad79bedfe7e3586e5230a6a2fdc50898d952e0b2/Lower%20rating%20often%20cancelled%20by%20rating.png)
+
+
+## Conclusion
+This project demonstrates the practical use of SQL and Power BI to analyze real-world ride booking data. The insights derived help improve operational efficiency, customer satisfaction, and overall business decision-making.
+
+## Author & Contact
+
+**Ritik Chauhan**  
+Data Analyst  
+
+📧 **Email:** chauhanritik659@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/ritikchauhan  
+🌐 **Portfolio:** https://github.com/ritikchauhan
+
