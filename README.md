@@ -131,6 +131,6 @@ This project demonstrates the practical use of SQL and Power BI to analyze real-
 Data Analyst  
 
 📧 **Email:** chauhanritik659@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/ritikchauhan  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ritik17chauhan/
 🌐 **Portfolio:** https://github.com/ritikchauhan
 
