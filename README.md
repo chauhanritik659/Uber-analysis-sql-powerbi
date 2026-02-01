@@ -56,7 +56,6 @@ The dataset contains ride booking–level transactional data for July 2025.
 - Power BI for data visualization and dashboards  
 - Microsoft Excel for initial data review  
 
-## Data Analysis Using SQL
 
 ## Data Analysis Using SQL
 
